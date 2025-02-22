@@ -8,7 +8,7 @@ This repository provides a structured and scalable API setup.
 ## 📥 Download Model & Dataset
 To run the API, download the necessary files:
 
-1. **Pretrained Model**: [Download Here](<your_google_drive_link>)
+1. **Pretrained Model**: [Download Here](<https://drive.google.com/drive/folders/1EbpnwDonOD8ZI29dtjoo-7vqGuW9iGCw>)
 
 
 ## 📂 Folder Structure
