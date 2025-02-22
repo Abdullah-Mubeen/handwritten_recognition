@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env
+env
+myenv
+
+# Logs and Caches
+logs/
+*.log
+cache/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# FastAPI generated files
+*.sqlite3
+
+# pytest cache
+.pytest_cache/
+__pycache__/
+*.pt
+*.pth
+*.h5
+*.ckpt
+large_model/
+
+# Node modules (if applicable)
+node_modules/
